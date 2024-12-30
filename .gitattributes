@@ -1,3 +1,3 @@
-*.PLpgSQL linguist-detectable=true
-*.PLpgSQL linguist-language=sql
-*.PLpgSQL text
+*.sql linguist-detectable=true
+*.sql linguist-language=PLpgSQL
+*.sql text
